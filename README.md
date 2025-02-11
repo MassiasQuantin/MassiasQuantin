@@ -1,12 +1,6 @@
 # À propos de moi 👨‍💻
 
-Je m'appelle Quantin et je suis développeur web et mobile, passionné par la création de solutions innovantes et performantes. Mon expérience à la Wild Code School m'a permis de développer une expertise solide en développement frontend et backend, ainsi qu'en développement d'applications mobiles. Mon portfolio GitHub reflète mes projets les plus récents et mes contributions à diverses initiatives de développement. N'hésitez pas à explorer mon travail et à me contacter pour toute question ou proposition de collaboration.
-
-## Projets Phares 🛠️
-
-- **Wild Impact P3 Origins**: Une initiative visant à promouvoir la biodiversité à travers une application web interactive. [Voir le projet](https://github.com/WildCodeSchool/2023-03-JS-Remote-Wild_Impact_P3_Origins)
-- **Wild Impact Project 2 - Team A**: Un projet collaboratif pour soutenir les actions environnementales via une plateforme web dynamique. [Voir le projet](https://github.com/WildCodeSchool/2023-03-JS-Remote-Wild_Impact_Project-2_Team_A)
-- **Space Cookie**: Une exploration ludique de l'espace à travers une application web éducative. [Voir le projet](https://github.com/Aikofr/Space_cookie)
+Je m'appelle Quantin et je suis développeur web et mobile, passionné par la création de solutions innovantes et performantes. Mon expérience chez Epitech m'a permis de développer une expertise solide en développement frontend et backend, ainsi qu'en développement d'applications mobiles. Mon portfolio GitHub reflète mes projets les plus récents et mes contributions à diverses initiatives de développement. N'hésitez pas à explorer mon travail et à me contacter pour toute question ou proposition de collaboration.
 
 ## Compétences 🧠
 
